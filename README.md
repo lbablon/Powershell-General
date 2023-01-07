@@ -1,2 +1,2 @@
 # Powershell-General
-Various powershell scripts and functions.
+Various powershell scripts, code samples andf functions.
